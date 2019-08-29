@@ -12,9 +12,9 @@
 
 ### ༡ ས་སྐྱ་རྒྱལ་ཡོངས་ཀྱི་དྲ་ཚིགས་ལ་གཟིགས། [དྲ་ཚིགས།](https://bdrc-reader.github.io/IBA/)
 
-### ༢ དྲ་ཚིགས་འདིའི་ནང་རྩོམ་སྒྲིག་བྱེད་སྟངས། [སློབ་ཚན།](https://github.com/bdrc-reader/IBA-shedra#%E0%BD%A2%E0%BE%A9%E0%BD%BC%E0%BD%98%E0%BD%A6%E0%BE%92%E0%BE%B2%E0%BD%B2%E0%BD%82%E0%BD%96%E0%BE%B1%E0%BD%BA%E0%BD%91%E0%BD%A6%E0%BE%9F%E0%BD%84%E0%BD%A6%E0%BD%80%E0%BE%B1%E0%BD%B2%E0%BD%A6%E0%BE%B3%E0%BD%BC%E0%BD%96%E0%BD%9A%E0%BD%93)
+### ༢ དྲ་ཚིགས་འདིའི་ནང་རྩོམ་སྒྲིག་བྱེད་སྟངས། [སློབ་ཚན།](https://github.com/bdrc-reader/IBA#%E0%BD%A2%E0%BE%A9%E0%BD%BC%E0%BD%98%E0%BD%A6%E0%BE%92%E0%BE%B2%E0%BD%B2%E0%BD%82%E0%BD%96%E0%BE%B1%E0%BD%BA%E0%BD%91%E0%BD%A6%E0%BE%9F%E0%BD%84%E0%BD%A6%E0%BD%80%E0%BE%B1%E0%BD%B2%E0%BD%A6%E0%BE%B3%E0%BD%BC%E0%BD%96%E0%BD%9A%E0%BD%93)
 
-### ༣ རྩོམ་སྒྲིག་བྱས་ཟིན་པའི་མ་ཕྱིའི་དཔེ་མཚོན་ལ་གཟིགས། [དཀར་ཆག](https://github.com/bdrc-reader/IBA-shedra/blob/master/karchak/W1ERI0011.tsv)
+### ༣ རྩོམ་སྒྲིག་བྱས་ཟིན་པའི་མ་ཕྱིའི་དཔེ་མཚོན་ལ་གཟིགས། [དཀར་ཆག](https://github.com/bdrc-reader/IBA/blob/master/karchak/W1ERI0017.tsv)
 
 <br>
 
